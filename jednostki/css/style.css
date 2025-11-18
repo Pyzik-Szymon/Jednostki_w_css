@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    background-color: #174899a6;
+}
+h1 {
+    font-size: 72px;
+    margin-top: 25px; 
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+table {
+    margin: 20px auto;
+}
+th {
+    font-weight: bold;
+}
+table, tr, td, th {
+    border: 3px solid black;
+    padding: 5px 5px;
+}
+a {
+    font-size: 40px;
+    display: block;
+    margin: 30px 0;
+    text-decoration: none;
+    font-weight: bold;
+}
